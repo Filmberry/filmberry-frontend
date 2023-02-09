@@ -1,5 +1,6 @@
 Proyektda ishlayotganizda ushbu qoidalarga amal qiling:
 
--kichik komponentlar(button, paragraf, input, card) src/components folderda bo'lsin.
+-kichik komponentlar(button, paragraf, input, card) src/features folderda bo'lsin. Ui bilan bog'liq komponentlar /ui folderga boshqa komponentlar vazifasiga qarab nomlangan folderlarga yozilsin.
+-hamma folder nomlari va fayl nomlari "kebab case" da yozilsin. (my-folder, my-component.jsx)
 -har qanday komponent kichik harflarda va "mening-ajoyib-komponentim.component.jsx" ko'rinishida bo'lsin.
 -qaysi page ustida ishlayotgan bo'lsangiz, pages folderda shu page nomi bilan yangi folder ochib keyin ishlang.
